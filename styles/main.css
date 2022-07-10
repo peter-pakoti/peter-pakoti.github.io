@@ -232,3 +232,129 @@ margin-bottom: 30px;
  padding-top: 5px;
 }
 
+
+/*blog - javascript*/
+
+
+.ptag-c {
+  float: left;
+  width: 40%;
+  padding-left: 50px;
+  padding-right: 20px;
+  margin: 20px;
+}
+
+.ptag-c img {
+  box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+}
+
+.js {
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(82, 131, 176);
+ margin-left: 6%;
+ margin-top: 5px;
+ margin-right: 6%;
+ padding-top: 5px;
+}
+
+.js-exp {
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(82, 131, 176);
+ margin-left: 6%;
+ margin-top: 5px;
+ margin-right: 6%;
+ padding-top: 7%;
+}
+
+#question-js {
+  font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:rgb(65, 110, 152);
+margin-left: 5%;
+margin-top: 10%;
+margin-right: 5%;
+}
+
+.js-cf {
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(82, 131, 176);
+ margin-left: 6%;
+ margin-top: 5px;
+ margin-right: 53%;
+}
+
+.ptag-d {
+  float: right;
+  width: 25%;
+  margin-right:15%;
+  margin-top: 10%;
+}
+
+#question-dom {
+  font-size: 20px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:rgb(65, 110, 152);
+margin-left: 5%;
+margin-top: 5%;
+margin-right: 5%;
+}
+
+.ptag-e {
+  float: left;
+  width: 35%;
+  padding-left: 50px;
+  padding-right: 20px;
+  margin-left:10%;
+  margin-top:30px;
+  height:30%;
+}
+
+.ptag-e img {
+  height: 500px;
+  box-shadow: 10px 10px 19px 0px rgba(0,0,0,0.75);
+}
+
+.js-arrays {
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(82, 131, 176);
+ margin-left: 6%;
+ margin-right:6%;
+ margin-top: 10px;
+}
+
+#fruit {
+  font-size: 30px;
+  display: inline-block;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(65, 110, 152);
+  margin-left: 25%;
+  margin-top: 25px;
+}
+
+#lunch {
+  font-size: 30px;
+  display: inline-block;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(65, 110, 152);
+  margin-left: 40%;
+  margin-top: 25px;
+}
+
+.js-objects {
+  font-size: 18px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(84, 115, 69);
+ margin-right:6%;
+ margin-top: 10px;
+}
+
+/* footer */
+
+
+.footer {
+  margin: 50px;
+}

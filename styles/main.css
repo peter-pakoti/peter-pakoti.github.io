@@ -362,3 +362,8 @@ margin-right: 5%;
 .footer {
   margin: 50px;
 }
+
+
+@media (max-width: 500px) {
+
+}

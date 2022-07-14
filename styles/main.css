@@ -363,7 +363,47 @@ margin-right: 5%;
   margin: 50px;
 }
 
+/* media queries home*/
 
-@media (max-width: 500px) {
+@media (max-width: 320px) {
+  h1 {
+    font-size: 30px;
+    background-color: #698e99;
+    width: 100%;
+  }
+ ul li {
+  list-style: none;
+  display:inline-block;
+  }
 
+ ul li a {
+  text-decoration: none;
+  font-size: 10px;
+  }
+  p {
+    font-size: 15px;
+  }  
 }
+
+@media (min-width: 320px) and (max-width: 768px) {
+  h1 {
+    font-size: 40px;
+    background-color: #698e99;
+    width: 100%;
+  }
+  ul li {
+  list-style: none;
+  display:inline-block;
+  }
+
+ ul li a {
+  text-decoration: none;
+  font-size: 15px;
+  }
+  p {
+    font-size: 17px;
+  }  
+}
+
+
+

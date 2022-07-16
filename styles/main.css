@@ -356,6 +356,33 @@ margin-right: 5%;
  margin-top: 10px;
 }
 
+
+/* problem solving */
+
+#question-pro {
+  margin-top: 5%;
+  font-size: 20px;
+  font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  color:rgb(65, 110, 152);
+  margin-left: 5%;
+  margin-right: 5%;
+}
+
+#label {
+font-size: 17px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:rgb(65, 110, 152);
+margin-left: 5%;
+margin-top: 20px;
+margin-right: 5%;
+}
+
+
+
+
+
+
+
 /* footer */
 
 

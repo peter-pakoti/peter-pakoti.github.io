@@ -378,6 +378,17 @@ margin-right: 5%;
 }
 
 
+/* learning plan */
+
+#question-title {
+  font-size: 30px;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+color:rgb(57, 79, 99);
+margin-left: 5%;
+margin-top: 20px;
+margin-right: 5%;
+margin-bottom: 30px;
+}
 
 
 
